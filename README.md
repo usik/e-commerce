@@ -25,3 +25,14 @@
 *** 추천 시스템 알고리즘 활용하여 상품 추천 기능 개발
 
 ** 
+
+
+#### 웹앱 설계
+5. Create React App
+   1. npx create-react-app frontend
+   2. npm start
+   3. Remove unused files
+   4. copy index.html content to App.js
+   5. copy style.css content to index.css
+   6. replace class with className
+
